@@ -3,7 +3,7 @@ layout: default
 title: Xinguang Liu
 ---
 
-<h2>{{ page.title }}</h2>
+<h2>{{ page.title }}'s Homepage</h2>
 
 <p>最新文章</p>
 
